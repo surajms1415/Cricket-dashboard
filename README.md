@@ -1,31 +1,28 @@
 Cricket Dashboard
+
 Interactive Cricket Analytics and Visualization Application
 
-Cricket Dashboard is a Python-based application designed to provide cricket data visualization and insights. It enables users to analyze match statistics, player performance, and trends through an interactive interface.
+Cricket Dashboard is a Python-based application that provides cricket data visualization and analytical insights, enabling users to explore match statistics and player performance through an interactive interface.
 
 Features
-Live score and match data visualization
-Player performance analysis
-Graphs and statistical insights
-Interactive dashboard interface
-Data-driven cricket analytics
+
+Match data visualization, player performance analysis, statistical graphs and insights, interactive dashboard interface.
+
 Tech Stack
-Python
-Streamlit / Flask
-Pandas, NumPy
-Matplotlib / Plotly
+
+Python, Streamlit or Flask, Pandas, NumPy, Matplotlib or Plotly.
+
 Usage
-pip install -r requirements.txt
-python app.py
+pip install -r requirements.txt  
+python app.py  
 Output
-Match statistics visualization
-Player performance graphs
-Interactive insights
+
+Match statistics visualization, player performance graphs, analytical insights.
+
 Objective
 
-To develop a data-driven cricket analytics platform for better understanding of match performance and statistics.
+To build a data-driven cricket analytics platform for performance analysis.
 
 Author
 
-Suraj M S
-https://github.com/surajms1415
+Suraj M S, https://github.com/surajms1415
